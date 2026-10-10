@@ -1,0 +1,6 @@
+{
+  "name": "Shayan Dhara Budget",
+  "description": "Budget tracking app for daily expenses and income with weekly and monthly comparative charts, category tagging, and custom alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
